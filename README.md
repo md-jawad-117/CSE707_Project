@@ -1,4 +1,4 @@
-# ⚙️ Decentralized Multi-Agent Pickup and Delivery Simulation (PyTorch)
+# ⚙️ Decentralized Multi-Agent Pickup and Delivery Simulation
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)  
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -111,6 +111,7 @@ pip install -r Environment-Config.txt
 ```bash
 python Scripts/main.py
 ```
+
 
 
 

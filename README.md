@@ -78,21 +78,21 @@ This makes the project a practical case study linking **distributed algorithms**
 
 ## 🚀 Git Files Download
 
-#### Step 1: Obtain the Code or Zip Donwload it
+#### Step 1: Obtain the Code or Zip Download it
 ```bash
 git clone https://github.com/md-jawad-117/CSE707_Project.git
 ```
 
 ## 🚀 CSV File Directory Change
 
-#### Step 2: Navigate to Project Files and Change Folder Directory
+#### Step 2: Navigate to Project Files and Change Folder Directory. (Also for parameter changing)
 ```bash
 Scripts/Config.py
 ```
 
 ## 🚀 Enviroment Making
 
-#### Step 3: Go to Main Directory (With Readme.md) & Create a Python Enviroment
+#### Step 3: Go to Main Directory (With Readme.md) & Create a Python Environment
 ```bash
 python -m venv venv
 venv\Scripts\activate
@@ -111,6 +111,7 @@ pip install -r Environment-Config.txt
 ```bash
 python Scripts/main.py
 ```
+
 
 
 
